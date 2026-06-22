@@ -109,3 +109,66 @@ Gentlyfy should feel like:
 - a calm emotional world,
 - a softer internet experience,
 - a place of gentle discovery.
+
+README.md
+
+GENTLYFY
+
+A calmer, softer and more intentional internet experience.
+
+Gentlyfy is a sensory digital home created for an overstimulated world.
+
+It is not:
+
+- social media,
+- a productivity platform,
+- an endless feed,
+- a dopamine-driven experience.
+
+Instead, Gentlyfy creates:
+
+- emotional safety,
+- slower digital experiences,
+- sensory comfort,
+- gentle exploration,
+- calm rituals,
+- emotional presence.
+
+The platform works like:
+a living digital house.
+
+Users do not endlessly scroll.
+
+They:
+
+- enter rooms,
+- explore atmospheres,
+- rest,
+- discover rituals,
+- emotionally inhabit spaces.
+
+Every room has:
+
+- its own atmosphere,
+- lighting,
+- sound identity,
+- emotional pacing,
+- seasonal variations.
+
+Gentlyfy is designed:
+for the human nervous system.
+
+Not for addiction.
+
+But for emotional presence, calm exploration and softer digital experiences.
+
+Core philosophy:
+
+- curiosity over addiction,
+- atmosphere over optimization,
+- calm over overstimulation,
+- emotional presence over performance.
+
+Gentlyfy is not a platform to consume.
+
+It is a place people emotionally return to.
